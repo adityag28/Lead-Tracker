@@ -1,0 +1,41 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  min-width: 400px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid black;
+  margin-bottom: 6px;
+}
+
+button {
+  border: 1px solid green;
+  background: green;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+#delete-btn {
+  border: 1px solid green;
+  color: green;
+  background-color: white;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+  padding-left: 0;
+}
+li {
+  margin-top: 5px;
+}
+a {
+  color: green;
+}
